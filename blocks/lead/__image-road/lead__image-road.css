@@ -1,0 +1,15 @@
+.lead__image-road {
+  width: 95%;
+  position: absolute;
+  left: 23px;
+  top: 90px;
+  z-index: 2;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__image-road {
+    left: 6px;
+    top: 27px;
+  }
+
+}

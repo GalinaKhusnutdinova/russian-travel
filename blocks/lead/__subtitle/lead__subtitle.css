@@ -1,0 +1,22 @@
+.lead__sudtitle {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 640px;
+  min-width: 288px;
+  margin-top: 32px;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  margin-bottom: 58px;
+  white-space: break-spaces;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__sudtitle {
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 16px 40px;
+  }
+
+}

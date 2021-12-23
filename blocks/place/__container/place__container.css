@@ -1,0 +1,14 @@
+.place__container {
+  max-width: 484px;
+  display: grid;
+  align-content: space-evenly;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__container {
+    align-content: flex-end;
+  }
+
+}
+
+

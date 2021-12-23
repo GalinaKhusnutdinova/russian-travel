@@ -21,3 +21,9 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+* [Ссылка на проект](https://galinakhusnutdinova.github.io/russian-travel/index.html)
+
+
+
+
