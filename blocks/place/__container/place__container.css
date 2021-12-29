@@ -1,12 +1,20 @@
 .place__container {
-  margin-top: 106px;
   max-width: 484px;
   display: grid;
 }
 
+@media screen and (max-width: 1279px) {
+  .place__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+
+}
+
 @media screen and (max-width: 1023px) {
   .place__container {
-    align-content: flex-end;
+    align-content: flex-start;
   }
 
 }
