@@ -1,7 +1,7 @@
 .place__container {
+  margin-top: 106px;
   max-width: 484px;
   display: grid;
-  align-content: space-evenly;
 }
 
 @media screen and (max-width: 1023px) {

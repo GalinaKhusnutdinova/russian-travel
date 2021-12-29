@@ -1,7 +1,6 @@
 .footer__list {
   display: flex;
   flex-direction: row;
-  column-gap: 18px;
   list-style-type: none;
   padding: 0;
 }

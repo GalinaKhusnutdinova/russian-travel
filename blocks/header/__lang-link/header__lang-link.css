@@ -10,6 +10,10 @@
   text-decoration: none;
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+}
+
 .header__lang-link:nth-last-child(2) {
   padding-left: 18px;
 }
