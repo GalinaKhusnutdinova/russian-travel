@@ -8,6 +8,11 @@
   column-gap: 40px;
 }
 
+@media screen and (max-width: 1279px) {
+  .place {
+    column-gap: 33px;
+  }
+}
 
 @media screen and (max-width: 767px) {
   .place {

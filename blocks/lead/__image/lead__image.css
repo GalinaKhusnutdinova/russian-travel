@@ -5,3 +5,10 @@
   margin: 0 auto;
   object-fit: cover;
   }
+
+  @media screen and (max-width: 1279px) {
+    .lead__image {
+      max-width: 928px;
+      max-height: 580px;
+    }
+  }
