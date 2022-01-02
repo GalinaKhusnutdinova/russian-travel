@@ -9,14 +9,10 @@
     flex-direction: column;
     justify-content: flex-end;
   }
-
 }
 
 @media screen and (max-width: 1023px) {
   .place__container {
     align-content: flex-start;
   }
-
 }
-
-

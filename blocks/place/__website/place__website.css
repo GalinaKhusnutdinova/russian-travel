@@ -1,18 +1,12 @@
 .place__website {
+  display: grid;
+  align-items: end;
+  row-gap: 12px;
   max-width: 100%;
-
-}
-
-@media screen and (max-width: 1279px) {
-  .place__website {
-    margin-bottom: 48px;
-  }
 }
 
 @media screen and (max-width: 767px) {
   .place__website {
-    margin-bottom: 0;
-    padding: 32px 16px;
+    padding: 0 16px;
   }
 }
-
