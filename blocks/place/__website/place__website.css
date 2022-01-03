@@ -1,8 +1,10 @@
 .place__website {
-  display: grid;
-  align-items: end;
+  display: flex;
   row-gap: 12px;
   max-width: 100%;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
 @media screen and (max-width: 767px) {
